@@ -32,6 +32,24 @@ TabPulse solves this straightforwardly: it lays everything out on a clean full-s
 
 ---
 
+## Feature Demos (1.5x Speed)
+
+> All demos are pre-rendered at **1.5x speed** for a snappy, concise preview.
+
+### 1. Onboarding & API Key Auto-Detection
+
+https://github.com/user-attachments/assets/a276fb8f-366e-48de-8ec2-2d9c1c12feb8
+
+### 2. Fullscreen Tab Board & Real-Time Editing
+
+https://github.com/user-attachments/assets/d89a6602-4983-43b7-a275-41d5264fbffe
+
+### 3. AI-Powered Bookmark Batch Organizing (Plan Confirmation & Undo)
+
+https://github.com/user-attachments/assets/84aa6437-7b4f-4260-87de-b6c378098737
+
+---
+
 ## Trilingual Terminology & Feature Comparison (多语言对照)
 
 All actions and features correspond directly across English, Chinese, and Japanese:

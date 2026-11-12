@@ -32,6 +32,24 @@ TabPulse 就是为了解决这件事做的:给你一个干净清晰的全屏大�
 
 ---
 
+## 功能演示 (1.5x 倍速实操)
+
+> 视频均已固定调速为 **1.5 倍速** 紧凑播放,快速展示核心工作流.
+
+### 1. 登录与配置 API Key (即粘即连,自动识别)
+
+https://github.com/user-attachments/assets/a276fb8f-366e-48de-8ec2-2d9c1c12feb8
+
+### 2. 标签页全屏看板与实时修改
+
+https://github.com/user-attachments/assets/d89a6602-4983-43b7-a275-41d5264fbffe
+
+### 3. AI 智能批量整理书签 (计划抽屉与安全撤销)
+
+https://github.com/user-attachments/assets/84aa6437-7b4f-4260-87de-b6c378098737
+
+---
+
 ## 多语言核心功能与术语对照 (Language Comparison / 言語対照)
 
 插件内所有交互与功能均提供中,英,日三语原生对照:

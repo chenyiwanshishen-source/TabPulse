@@ -32,6 +32,24 @@ TabPulse は、そんな日常のストレスを解消するために作られ�
 
 ---
 
+## 機能デモ（1.5倍速）
+
+> すべてのデモ動画は要点をスムーズにご確認いただけるよう、あらかじめ **1.5倍速** に調整されています。
+
+### 1. ログインと API Key 設定（貼り付けるだけで自動認識）
+
+https://github.com/user-attachments/assets/a276fb8f-366e-48de-8ec2-2d9c1c12feb8
+
+### 2. フルスクリーンタブ看板とリアルタイム編集
+
+https://github.com/user-attachments/assets/d89a6602-4983-43b7-a275-41d5264fbffe
+
+### 3. AI によるブックマークの一括整理（実行前確認ドロワー）
+
+https://github.com/user-attachments/assets/84aa6437-7b4f-4260-87de-b6c378098737
+
+---
+
 ## 3 言語 機能・用語対照表 (Trilingual Comparison)
 
 本拡張機能のすべての機能・UI 表記は、日・英・中の 3 言語で直接対応しています:
