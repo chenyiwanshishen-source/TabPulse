@@ -14,11 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="icons/brand/mascot-scratch.webp" alt="惊讶挠头的文件夹角色" width="150" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="icons/brand/mascot-wave.webp" alt="挥手打招呼的文件夹角色" width="120" />
-  <br />
-  <sub>为了让产品更有人情味,我以文件夹的形态为基础,设计了一个可爱的动态陪伴角色.</sub>
+  <img src="icons/brand/mascot-scratch.webp" alt="TabPulse 吉祥物" width="160" />
 </p>
 
 一款集中管理浏览器标签页与书签的 Chrome 扩展.内置中文,英文,日文三种语言界面,根据系统语言自动匹配.

@@ -14,11 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="icons/brand/mascot-scratch.webp" alt="Scratching head mascot" width="150" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="icons/brand/mascot-wave.webp" alt="Waving folder mascot" width="120" />
-  <br />
-  <sub>To bring a warm, human touch to tab management, I designed a companion character shaped like an everyday folder.</sub>
+  <img src="icons/brand/mascot-scratch.webp" alt="TabPulse Mascot" width="160" />
 </p>
 
 A clean Chrome extension to manage your open tabs and bookmarks on one full-screen visual canvas. Built-in native support for English, Simplified Chinese, and Japanese, automatically matching your browser language.

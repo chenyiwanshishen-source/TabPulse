@@ -14,11 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="icons/brand/mascot-scratch.webp" alt="頭をかくフォルダーキャラクター" width="150" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="icons/brand/mascot-wave.webp" alt="手を振るフォルダーキャラクター" width="120" />
-  <br />
-  <sub>ツールに親しみやすさを添えるため、日常的なフォルダーの形をベースに動くマスコットキャラクターをデザインしました。</sub>
+  <img src="icons/brand/mascot-scratch.webp" alt="TabPulse マスコット" width="160" />
 </p>
 
 開いているタブとブックマークをひとつの大画面キャンバスで直感的に整理できる Chrome 拡張機能です。日本語、英語、簡体字中国語の 3 言語にネイティブ対応しており、ブラウザの言語設定に応じて自動で切り替わります。
