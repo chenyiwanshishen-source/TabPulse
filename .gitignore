@@ -1,8 +1,2 @@
-# Extension build artifacts
-assets/
-src/
-index.html
-manifest.json
-service-worker-loader.js
 *.zip
 .DS_Store

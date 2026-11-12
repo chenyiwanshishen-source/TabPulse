@@ -1,0 +1,84 @@
+{
+  "manifest_version": 3,
+  "name": "TabPulse 测试版",
+  "version": "2.1.0",
+  "description": "集中管理浏览器标签页与书签，支持搜索、分组、拖拽和重复项清理。可接入自己的模型 API，用自然语言让 AI 辅助分类整理；书签操作可撤销，步数可在设置中调整（默认 5 步）。",
+  "permissions": [
+    "tabs",
+    "tabGroups",
+    "storage",
+    "bookmarks",
+    "unlimitedStorage",
+    "debugger",
+    "scripting"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "service-worker-loader.js",
+    "type": "module"
+  },
+  "action": {
+    "default_title": "打开 ye! — 标签页与书签整理工具",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "optional_permissions": [],
+  "commands": {
+    "collect-page": {
+      "suggested_key": {
+        "default": "Alt+Shift+D",
+        "mac": "Alt+Shift+D"
+      },
+      "description": "收藏当前页面"
+    }
+  },
+  "content_scripts": [
+    {
+      "js": [
+        "assets/pageCollect.tsx-loader-C-2pZFFb.js"
+      ],
+      "matches": [
+        "<all_urls>"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "resources": [
+        "icons/brand/mascot-sprite-256.webp",
+        "assets/mascot-sprite-256-C9SDFhAF.webp",
+        "assets/client-DGKTbqRn.js",
+        "assets/index-A_BZOL0t.js",
+        "assets/bookmarkRootContainers-BaB0_8YZ.js",
+        "assets/PageCollectPanel-BcEdVHEM.js",
+        "assets/pageCollectTransport-lvGDpl4b.js",
+        "assets/TabClarificationDrawer-D_QnPNdL.js",
+        "assets/conversationImport-L_SMljHz.js",
+        "assets/manualBookmarkWrites-IpkNBcC1.js",
+        "assets/moveSingleBookmark-BeNmZEBr.js",
+        "assets/operationDiagnostics-D6eJm7JJ.js",
+        "assets/capabilityResultArchiveProducer-Gux-SSGu.js",
+        "assets/Toast-BLETwBo8.js",
+        "assets/conversationDeletion-Bm2Xk1TC.js",
+        "assets/conversationDiagnosticLog-DDBsDsR6.js",
+        "assets/useDirectReceiptArchiveStore-ChU8gjSy.js",
+        "assets/pageCollect.tsx-Dnchwi9e.js"
+      ],
+      "use_dynamic_url": false
+    }
+  ]
+}

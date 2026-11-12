@@ -55,10 +55,14 @@ All actions and features correspond directly across English, Chinese, and Japane
 
 This repository contains a pre-built extension package ready to load directly into Google Chrome.
 
-### 1. Load into Chrome
+### 1. Download & Load into Chrome
 
-1. Go to [Releases](https://github.com/chenyiwanshishen-source/TabPulse/releases/latest) and download **[TabPulse-v2.0-trial.zip](https://github.com/chenyiwanshishen-source/TabPulse/releases/latest/download/TabPulse-v2.0-trial.zip)**, then unzip it to a local folder.
-2. Open Google Chrome and navigate to:
+You can download the ready-to-use extension in either of two ways:
+- **Option A (Direct)**: Click the green **`<> Code` → `Download ZIP`** button at the top right of this repo, then extract it.
+- **Option B (Releases)**: Click the download badge at the top, or visit [Releases](https://github.com/chenyiwanshishen-source/TabPulse/releases/latest) to download **[TabPulse-v2.0-trial.zip](https://github.com/chenyiwanshishen-source/TabPulse/releases/latest/download/TabPulse-v2.0-trial.zip)**, then unzip it.
+
+After extracting, follow these simple steps:
+1. Open Google Chrome and navigate to:
    ```text
    chrome://extensions/
    ```

@@ -55,10 +55,14 @@ TabPulse は、そんな日常のストレスを解消するために作られ�
 
 ビルド済みパッケージのため、Google Chrome にそのまま読み込んですぐに使えます。
 
-### 1. Chrome への読み込み
+### 1. ダウンロードと Chrome への読み込み
 
-1. [Releases ページ](https://github.com/chenyiwanshishen-source/TabPulse/releases/latest) から **[TabPulse-v2.0-trial.zip](https://github.com/chenyiwanshishen-source/TabPulse/releases/latest/download/TabPulse-v2.0-trial.zip)** をダウンロードし、お好みのフォルダーに展開します。
-2. Chrome ブラウザを開き、アドレスバーに以下を入力して Enter を押します:
+以下のいずれかの方法でお試し版パッケージを取得できます:
+- **方法 A (手軽に一括)**: リポジトリ右上の緑色の **`<> Code` → `Download ZIP`** をクリックしてダウンロードし、展開します。
+- **方法 B (Releases ページ)**: ページ上部のダウンロードボタン、または [Releases ページ](https://github.com/chenyiwanshishen-source/TabPulse/releases/latest) から **[TabPulse-v2.0-trial.zip](https://github.com/chenyiwanshishen-source/TabPulse/releases/latest/download/TabPulse-v2.0-trial.zip)** をダウンロードし、展開します。
+
+展開後、以下の手順で Chrome に読み込みます:
+1. Chrome ブラウザを開き、アドレスバーに以下を入力して Enter を押します:
    ```text
    chrome://extensions/
    ```

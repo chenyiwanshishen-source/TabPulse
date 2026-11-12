@@ -55,10 +55,14 @@ TabPulse 就是为了解决这件事做的:给你一个干净清晰的全屏大�
 
 这是一个免打包的已编译体验版,直接载入 Chrome 即可使用.
 
-### 1. 安装到 Chrome
+### 1. 下载并安装到 Chrome
 
-1. 前往 [Releases 发布页面](https://github.com/chenyiwanshishen-source/TabPulse/releases/latest) 点击下载 **[TabPulse-v2.0-trial.zip](https://github.com/chenyiwanshishen-source/TabPulse/releases/latest/download/TabPulse-v2.0-trial.zip)** 安装包,并解压到你常用的本地文件夹.
-2. 打开 Chrome 浏览器,在地址栏输入并回车:
+你可以通过以下任意一种方式获取插件:
+- **方式 A (推荐)**: 点击仓库右上角绿色的 **`<> Code` → `Download ZIP`** 下载并解压.
+- **方式 B (发布专区)**: 点击页面顶部的下载按钮,或前往 [Releases 页面](https://github.com/chenyiwanshishen-source/TabPulse/releases/latest) 下载 **[TabPulse-v2.0-trial.zip](https://github.com/chenyiwanshishen-source/TabPulse/releases/latest/download/TabPulse-v2.0-trial.zip)** 安装包并解压.
+
+下载解压后,按以下步骤载入 Chrome:
+1. 打开 Chrome 浏览器,在地址栏输入并回车:
    ```text
    chrome://extensions/
    ```
