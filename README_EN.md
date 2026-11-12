@@ -103,6 +103,12 @@ Setting up AI takes just seconds:
 2. **In Settings Anytime**: You can also add, view, or switch keys inside the Settings modal at any time, with the same automatic provider detection.
 3. **Local & Secure**: Your API keys are stored strictly in your browser (`chrome.storage`) and never leave your machine.
 
+> **💡 Model Recommendation & Cost Tip (Real-World Benchmark: 500 Bookmarks)**:  
+> We strongly recommend using **DeepSeek** (`deepseek-chat`).  
+> Reorganizing tabs and bookmarks involves sending link titles and URLs as context to the model, and DeepSeek features exceptional Context Caching support.  
+> **Benchmark (Organizing 500 Bookmarks/Tabs in One Run)**:  
+> 500 links consume roughly 30,000 input tokens. Thanks to DeepSeek's context caching, a full scan and categorization of 500 items typically costs **less than ¥0.10 RMB (approx. ¥0.03–¥0.08 RMB, which is under \$0.014 USD / less than 1.5 cents)**. You can comfortably reorganize hundreds or thousands of cluttered links with virtually zero bill anxiety.
+
 ---
 
 ## Feedback & Community
