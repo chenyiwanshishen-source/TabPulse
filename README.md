@@ -4,6 +4,15 @@
   <b>简体中文</b> | <a href="README_EN.md">English</a> | <a href="README_JA.md">日本語</a>
 </p>
 
+<p align="left">
+  <a href="https://github.com/chenyiwanshishen-source/TabPulse/releases/latest/download/TabPulse-v2.0-trial.zip">
+    <img src="https://img.shields.io/badge/%F0%9F%93%A6%20%E7%82%B9%E5%87%BB%E4%B8%8B%E8%BD%BD%E4%BD%93%E9%AA%8C%E7%89%88-v2.0.0--trial-22c55e?style=for-the-badge" alt="下载体验版" />
+  </a>
+  <a href="https://github.com/chenyiwanshishen-source/TabPulse/releases/latest">
+    <img src="https://img.shields.io/badge/Releases-%E5%8F%91%E5%B8%83%E4%B8%93%E5%8C%BA-2563eb?style=for-the-badge" alt="Releases" />
+  </a>
+</p>
+
 一款集中管理浏览器标签页与书签的 Chrome 扩展.内置中文,英文,日文三种语言界面,根据系统语言自动匹配.
 
 平时查资料开几十个标签页,关了怕丢,不关又卡;书签存了几千个,越积越乱,找起来像大海捞针.

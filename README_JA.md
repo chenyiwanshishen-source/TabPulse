@@ -4,6 +4,15 @@
   <a href="README.md">简体中文</a> | <a href="README_EN.md">English</a> | <b>日本語</b>
 </p>
 
+<p align="left">
+  <a href="https://github.com/chenyiwanshishen-source/TabPulse/releases/latest/download/TabPulse-v2.0-trial.zip">
+    <img src="https://img.shields.io/badge/%F0%9F%93%A6%20%E3%81%8A%E8%A9%A6%E3%81%97%E7%89%88%E3%82%92%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-v2.0.0--trial-22c55e?style=for-the-badge" alt="お試し版をダウンロード" />
+  </a>
+  <a href="https://github.com/chenyiwanshishen-source/TabPulse/releases/latest">
+    <img src="https://img.shields.io/badge/Releases-%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E4%B8%80%E8%A6%A7-2563eb?style=for-the-badge" alt="Releases" />
+  </a>
+</p>
+
 開いているタブとブックマークをひとつの大画面キャンバスで直感的に整理できる Chrome 拡張機能です。日本語、英語、簡体字中国語の 3 言語にネイティブ対応しており、ブラウザの言語設定に応じて自動で切り替わります。
 
 調べ物をしているとタブが数十個も開きっぱなしになり、閉じると後で困るし、開いたままだと重くなる。ブックマークも気づけば何千個も溜まり、探すのが大変――。

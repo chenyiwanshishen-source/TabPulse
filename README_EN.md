@@ -4,6 +4,15 @@
   <a href="README.md">简体中文</a> | <b>English</b> | <a href="README_JA.md">日本語</a>
 </p>
 
+<p align="left">
+  <a href="https://github.com/chenyiwanshishen-source/TabPulse/releases/latest/download/TabPulse-v2.0-trial.zip">
+    <img src="https://img.shields.io/badge/%F0%9F%93%A6%20Download%20Trial-v2.0.0--trial-22c55e?style=for-the-badge" alt="Download Trial" />
+  </a>
+  <a href="https://github.com/chenyiwanshishen-source/TabPulse/releases/latest">
+    <img src="https://img.shields.io/badge/Releases-Latest%20Release-2563eb?style=for-the-badge" alt="Releases" />
+  </a>
+</p>
+
 A clean Chrome extension to manage your open tabs and bookmarks on one full-screen visual canvas. Built-in native support for English, Simplified Chinese, and Japanese, automatically matching your browser language.
 
 When researching or working online, tabs easily pile up into the dozens. Closing them risks losing information; keeping them open slows down your browser. Bookmarks pile up into the thousands, becoming impossible to search through.
