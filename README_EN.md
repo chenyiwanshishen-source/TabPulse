@@ -13,6 +13,14 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="icons/brand/mascot-scratch.webp" alt="Scratching head mascot" width="150" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="icons/brand/mascot-wave.webp" alt="Waving folder mascot" width="120" />
+  <br />
+  <sub>To bring a warm, human touch to tab management, I designed a companion character shaped like an everyday folder.</sub>
+</p>
+
 A clean Chrome extension to manage your open tabs and bookmarks on one full-screen visual canvas. Built-in native support for English, Simplified Chinese, and Japanese, automatically matching your browser language.
 
 When researching or working online, tabs easily pile up into the dozens. Closing them risks losing information; keeping them open slows down your browser. Bookmarks pile up into the thousands, becoming impossible to search through.
