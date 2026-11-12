@@ -74,12 +74,12 @@ On any web page, press the default shortcut to bring up the quick bookmark capsu
 
 > To customize the shortcut, go to `chrome://extensions/shortcuts` in your browser.
 
-### 3. Add Your AI API Key
+### 3. Add Your AI API Key (Auto-Detected Anywhere)
 
-When you are ready to try AI-assisted organization:
-1. Click the extension icon to open the TabPulse workspace, then open the Settings modal.
-2. Paste your API key into the configuration field. The extension will automatically match the provider and model.
-3. The key is stored purely inside your local browser and can be replaced or cleared anytime.
+Setting up AI takes just seconds:
+1. **Directly on the Home Screen**: Open TabPulse, and the AI panel will prompt for an API key right on the home canvas. Simply paste your API key (OpenAI, Claude, DeepSeek, SiliconFlow, MiniMax, Moonshot, or local Ollama). The extension automatically identifies the provider and configures the endpoint instantly—no manual selection needed.
+2. **In Settings Anytime**: You can also add, view, or switch keys inside the Settings modal at any time, with the same automatic provider detection.
+3. **Local & Secure**: Your API keys are stored strictly in your browser (`chrome.storage`) and never leave your machine.
 
 ---
 
