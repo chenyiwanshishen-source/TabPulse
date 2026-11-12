@@ -96,18 +96,13 @@ On any web page, press the default shortcut to bring up the quick bookmark capsu
 
 > To customize the shortcut, go to `chrome://extensions/shortcuts` in your browser.
 
-### 3. Add Your AI API Key (Auto-Detected Anywhere)
+### 3. Add Your API Key (Paste & Auto-Detect)
 
-Setting up AI takes just seconds:
-1. **Directly on the Home Screen**: Open TabPulse, and the AI panel will prompt for an API key right on the home canvas. Simply paste your API key (OpenAI, Claude, DeepSeek, SiliconFlow, MiniMax, Moonshot, or local Ollama). The extension automatically identifies the provider and configures the endpoint instantly—no manual selection needed.
-2. **In Settings Anytime**: You can also add, view, or switch keys inside the Settings modal at any time, with the same automatic provider detection.
-3. **Local & Secure**: Your API keys are stored strictly in your browser (`chrome.storage`) and never leave your machine.
-
-> **💡 Model Recommendation & Cost Tip (Real-World Benchmark: 500 Bookmarks)**:  
-> We strongly recommend using **DeepSeek** (`deepseek-chat`).  
-> Reorganizing tabs and bookmarks involves sending link titles and URLs as context to the model, and DeepSeek features exceptional Context Caching support.  
-> **Benchmark (Organizing 500 Bookmarks/Tabs in One Run)**:  
-> 500 links consume roughly 30,000 input tokens. Thanks to DeepSeek's context caching, a full scan and categorization of 500 items typically costs **less than ¥0.10 RMB (approx. ¥0.03–¥0.08 RMB, which is under \$0.014 USD / less than 1.5 cents)**. You can comfortably reorganize hundreds or thousands of cluttered links with virtually zero bill anxiety.
+Setting up AI takes just a few seconds:
+1. **DeepSeek API Key Recommended**: We suggest starting with a DeepSeek API key. Reorganizing tabs requires sending whole lists of links to the model. DeepSeek handles prompt caching exceptionally well, which cuts costs down to almost nothing. In real tests organizing **500 bookmarks at once**, a full categorization pass costs around **¥0.10 RMB (~$0.014 USD / less than 2 cents)**, so you can clean up thousands of links without worrying about usage bills.
+2. **Paste Directly on the Canvas**: Open TabPulse and paste your key straight into the AI assistant panel on the board. In addition to DeepSeek, it also supports Claude, OpenAI, SiliconFlow, MiniMax, Moonshot, or local Ollama. The extension auto-detects the provider and connects immediately—no manual menus to dig through.
+3. **Change Anytime in Settings**: If you ever want to switch providers or update a key, paste the new one in Settings and it will auto-detect again.
+4. **Stored 100% Locally**: Keys are kept strictly inside your own browser storage (`chrome.storage`) and never touch any external server. You can wipe them anytime with one click.
 
 ---
 
